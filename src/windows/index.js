@@ -5,5 +5,6 @@ import Finder from "./Finder"
 import TextView from "./TextView"
 import ImageView from "./ImageView";
 import Contact from "./Contact";
+import Photos from "./Photos";
 
-export {Terminal,Safari,Resume,Finder,TextView,ImageView,Contact}
+export {Terminal,Safari,Resume,Finder,TextView,ImageView,Contact,Photos}
